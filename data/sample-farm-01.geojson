@@ -3,7 +3,15 @@
     "features": [
       {
         "type": "Feature",
-        "properties": {},
+        "properties": {
+          "farm-plot-id": 2342,
+          "farm-plot-mapping-date": "2023-12-12",
+          "aggregator-name": "sample farm collective 1",
+          "cultivation": "mono",
+          "plant-year": "2021",
+          "farmer-id": 9238,
+          "name": "sample farmer name 1"
+        },
         "geometry": {
           "coordinates": [
             [
